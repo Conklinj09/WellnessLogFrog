@@ -7,7 +7,7 @@ import About from "./Pages/About";
 import Contact from "./Pages/Contact";
 import Login from "./Pages/auth/Login";
 import SignUp from "./Pages/auth/SignUp";
-import "./common.css";
+import "./common.css"; // ✅ Global styles imported
 
 
 function App() {
