@@ -1,0 +1,46 @@
+.contact-container {
+    background: url('/images/forest-path.jpg') no-repeat center center/cover;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    color: #C5E1A5; /* Soft green */
+    max-width: 80%;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.contact-details {
+    background-color: rgba(27, 94, 32, 0.8); /* Semi-transparent dark green */
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input, textarea {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 8px;
+    border: none;
+    background: #2E7D32; /* Deep green */
+    color: #E8F5E9;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #66BB6A; /* Brighter green */
+}
