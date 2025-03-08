@@ -25,7 +25,7 @@
 ### Steps to Run Locally
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/wellness-log-frog.git
+git clone https://github.com/Conklinj09/wellness-log-frog.git
 cd wellness-log-frog
 
 # Install dependencies
