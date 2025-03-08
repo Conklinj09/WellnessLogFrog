@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0B3D02; /* Forest dark green */
+    padding: 20px;
+    color: #DCE775; /* Light green */
+}
+
+nav a {
+    margin: 0 15px;
+    color: #C5E1A5;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #81C784;
+}
