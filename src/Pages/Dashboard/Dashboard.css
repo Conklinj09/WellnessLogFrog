@@ -1,0 +1,7 @@
+.dashboard-container {
+    background: url('/images/forest-path.jpg') no-repeat center center/cover;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    color: #C5E1A5; /* Soft green */
+}

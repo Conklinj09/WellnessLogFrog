@@ -14,3 +14,10 @@ a {
 a:hover {
     color: #81C784; /* Lighter green on hover */
 }
+
+h1, h2, h3, h4, h5, h6 {
+    color: #D4E157; /* Soft greenish-yellow */
+}
+body {
+    cursor: url('/images/flower-mouse.png'), auto;
+}
