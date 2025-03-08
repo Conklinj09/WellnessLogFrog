@@ -1,0 +1,28 @@
+.about-container {
+    background: url('/images/forest-bg.jpg') no-repeat center center/cover;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    color: #C5E1A5; /* Soft green */
+    max-width: 80%;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+h2 {
+    color: #DCE775; /* Light green */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #1B5E20; /* Deep green */
+    color: #E8F5E9; /* Soft light green */
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
