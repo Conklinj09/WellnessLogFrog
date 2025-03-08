@@ -1,0 +1,15 @@
+# inputs and buttons
+
+.btn {
+    background-color: #1B5E20; /* Rich forest green */
+    color: #E8F5E9; /* Soft white-green */
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #43A047; /* Lighter green */
+}
